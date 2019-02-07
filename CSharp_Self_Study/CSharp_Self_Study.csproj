@@ -43,7 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <None Include="day1_Variable\Variable%28Decimal%29.cs" />
+    <None Include="Program.cs" />
+    <None Include="day1_Variable\Variable%28Real%29.cs" />
+    <None Include="day1_Variable\Variable%28String%29.cs" />
+    <Compile Include="day1_Variable\Variable%28boolean%29.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
