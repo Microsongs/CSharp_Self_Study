@@ -47,7 +47,11 @@
     <None Include="Program.cs" />
     <None Include="day1_Variable\Variable%28Real%29.cs" />
     <None Include="day1_Variable\Variable%28String%29.cs" />
-    <Compile Include="day1_Variable\Variable%28boolean%29.cs" />
+    <None Include="day1_Variable\Variable%28boolean%29.cs" />
+    <Compile Include="day2_Basic\Array.cs" />
+    <None Include="day2_Basic\Operator1.cs" />
+    <None Include="day2_Basic\TypeCasting.cs" />
+    <Compile Include="day2_Basic\MultiDimentionalArray.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
