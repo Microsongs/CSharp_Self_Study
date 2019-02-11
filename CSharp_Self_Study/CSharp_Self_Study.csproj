@@ -48,10 +48,29 @@
     <None Include="day1_Variable\Variable%28Real%29.cs" />
     <None Include="day1_Variable\Variable%28String%29.cs" />
     <None Include="day1_Variable\Variable%28boolean%29.cs" />
-    <Compile Include="day2_Basic\Array.cs" />
+    <None Include="day2_Basic\Array.cs" />
     <None Include="day2_Basic\Operator1.cs" />
     <None Include="day2_Basic\TypeCasting.cs" />
-    <Compile Include="day2_Basic\MultiDimentionalArray.cs" />
+    <None Include="day2_Basic\MultiDimentionalArray.cs" />
+    <None Include="day3-1_Operator_if\Else.cs" />
+    <None Include="day3-1_Operator_if\If.cs" />
+    <None Include="day3-1_Operator_if\LogicalOperator.cs" />
+    <None Include="day3-1_Operator_if\RelationOperator.cs" />
+    <None Include="day3-1_Operator_if\ElseIf.cs" />
+    <None Include="day3-1_Operator_if\Switch.cs" />
+    <None Include="day3-1_Operator_if\TernaryOperator.cs" />
+    <None Include="day3-1_Operator_if\Switch2.cs" />
+    <None Include="day3-2_IterationOperator\For.cs" />
+    <None Include="day3-2_IterationOperator\IncrementDecrementOperator.cs" />
+    <None Include="day3-2_IterationOperator\NestedLoopFor.cs" />
+    <None Include="day3-2_IterationOperator\ForEach.cs" />
+    <None Include="day3-2_IterationOperator\While.cs" />
+    <None Include="day3-2_IterationOperator\Break.cs" />
+    <None Include="day3-2_IterationOperator\DoWhile.cs" />
+    <None Include="day3-2_IterationOperator\Continue.cs" />
+    <None Include="day3-2_IterationOperator\GotoBadExample.cs" />
+    <None Include="day3-2_IterationOperator\GotoGoodExample.cs" />
+    <Compile Include="day3-2_IterationOperator\Question1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
