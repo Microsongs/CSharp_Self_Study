@@ -70,7 +70,16 @@
     <None Include="day3-2_IterationOperator\Continue.cs" />
     <None Include="day3-2_IterationOperator\GotoBadExample.cs" />
     <None Include="day3-2_IterationOperator\GotoGoodExample.cs" />
-    <Compile Include="day3-2_IterationOperator\Question1.cs" />
+    <None Include="day3-2_IterationOperator\Question1.cs" />
+    <None Include="day4_Object Oriented\ClassBasic.cs" />
+    <None Include="day4_Object Oriented\useMethod.cs" />
+    <None Include="day4_Object Oriented\Constructor.cs" />
+    <None Include="day4_Object Oriented\useMethod2.cs" />
+    <None Include="day4_Object Oriented\InstanceMember.cs" />
+    <None Include="day4_Object Oriented\StaticMember.cs" />
+    <None Include="day4_Object Oriented\Singleton.cs" />
+    <Compile Include="day4_Object Oriented\StaticConstructor.cs" />
+    <None Include="day4_Object Oriented\StaticMethod.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
