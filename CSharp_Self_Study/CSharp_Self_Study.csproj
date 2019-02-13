@@ -78,8 +78,13 @@
     <None Include="day4_Object Oriented\InstanceMember.cs" />
     <None Include="day4_Object Oriented\StaticMember.cs" />
     <None Include="day4_Object Oriented\Singleton.cs" />
-    <Compile Include="day4_Object Oriented\StaticConstructor.cs" />
+    <None Include="day4_Object Oriented\StaticConstructor.cs" />
     <None Include="day4_Object Oriented\StaticMethod.cs" />
+    <None Include="day5_Encapsulation\EncapsulationBasic.cs" />
+    <None Include="day5_Encapsulation\InformationHiding.cs" />
+    <None Include="day5_Encapsulation\InheritanceBasic.cs" />
+    <None Include="day5_Encapsulation\Property.cs" />
+    <Compile Include="day5_Encapsulation\InheritanceCasting.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
