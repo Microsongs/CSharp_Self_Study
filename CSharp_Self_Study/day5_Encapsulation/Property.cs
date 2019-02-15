@@ -10,7 +10,7 @@ namespace CSharp_Self_Study.day5_Encapsulation
     {
         double pi = 3.14;
 
-        public double Pi
+        public double Pi    //접근할 때에는 프로퍼티 이름으로 접근해야함
         {
             get { return pi; }
             set { pi = value; } //set블록에서만 사용할 수 있는 value 예약어

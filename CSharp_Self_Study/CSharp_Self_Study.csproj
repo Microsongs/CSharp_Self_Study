@@ -84,7 +84,13 @@
     <None Include="day5_Encapsulation\InformationHiding.cs" />
     <None Include="day5_Encapsulation\InheritanceBasic.cs" />
     <None Include="day5_Encapsulation\Property.cs" />
-    <Compile Include="day5_Encapsulation\InheritanceCasting.cs" />
+    <None Include="day5_Encapsulation\InheritanceCasting.cs" />
+    <None Include="day6_Object Type\Operator_as_is.cs" />
+    <None Include="day6_Object Type\ObjectType.cs" />
+    <None Include="day6_Object Type\ToString.cs" />
+    <None Include="day6_Object Type\GetType.cs" />
+    <None Include="day6_Object Type\Equals.cs" />
+    <Compile Include="day6_Object Type\GetHashCode.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
