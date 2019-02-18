@@ -90,7 +90,13 @@
     <None Include="day6_Object Type\ToString.cs" />
     <None Include="day6_Object Type\GetType.cs" />
     <None Include="day6_Object Type\Equals.cs" />
-    <Compile Include="day6_Object Type\GetHashCode.cs" />
+    <None Include="day6_Object Type\GetHashCode.cs" />
+    <None Include="day7_\System_Array_Method.cs" />
+    <None Include="day7_\This_and_static.cs" />
+    <None Include="day7_\This_Constructor.cs" />
+    <None Include="day7_\This_Example.cs" />
+    <None Include="day7_\Base_Example.cs" />
+    <Compile Include="day7_\Base_Constructor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
