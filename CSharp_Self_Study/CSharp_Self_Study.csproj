@@ -96,7 +96,15 @@
     <None Include="day7_System.Array_base_this\This_Constructor.cs" />
     <None Include="day7_System.Array_base_this\This_Example.cs" />
     <None Include="day7_System.Array_base_this\Base_Example.cs" />
-    <Compile Include="day7_System.Array_base_this\Base_Constructor.cs" />
+    <None Include="day7_System.Array_base_this\Base_Constructor.cs" />
+    <None Include="day8_Polymorphism\MethodOverride.cs" />
+    <None Include="day8_Polymorphism\New_UseByChildClass.cs" />
+    <None Include="day8_Polymorphism\ObjectOverride.cs" />
+    <None Include="day8_Polymorphism\MethodOverload.cs" />
+    <None Include="day8_Polymorphism\ObjectOverride2.cs" />
+    <None Include="day8_Polymorphism\CastingOverload.cs" />
+    <None Include="day8_Polymorphism\OperatorOverload.cs" />
+    <Compile Include="day8_Polymorphism\Example1_KiloGramGram.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
