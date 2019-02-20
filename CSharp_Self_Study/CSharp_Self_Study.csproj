@@ -104,7 +104,14 @@
     <None Include="day8_Polymorphism\ObjectOverride2.cs" />
     <None Include="day8_Polymorphism\CastingOverload.cs" />
     <None Include="day8_Polymorphism\OperatorOverload.cs" />
-    <Compile Include="day8_Polymorphism\Example1_KiloGramGram.cs" />
+    <None Include="day8_Polymorphism\Example1_KiloGramGram.cs" />
+    <None Include="day9_ClassExpansion\NestedClass.cs" />
+    <None Include="day9_ClassExpansion\AbstractClass.cs" />
+    <None Include="day9_ClassExpansion\DelegateBasic1.cs" />
+    <None Include="day9_ClassExpansion\DelegateBasic2.cs" />
+    <None Include="day9_ClassExpansion\MultipleDelegate.cs" />
+    <None Include="day9_ClassExpansion\CallbackBasic.cs" />
+    <Compile Include="day9_ClassExpansion\CallbackDelegate.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
