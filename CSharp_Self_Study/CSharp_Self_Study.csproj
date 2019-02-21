@@ -111,7 +111,13 @@
     <None Include="day9_ClassExpansion\DelegateBasic2.cs" />
     <None Include="day9_ClassExpansion\MultipleDelegate.cs" />
     <None Include="day9_ClassExpansion\CallbackBasic.cs" />
-    <Compile Include="day9_ClassExpansion\CallbackDelegate.cs" />
+    <None Include="day10_Delegate_Interface\Selection_sort%28Callback%29.cs" />
+    <None Include="day9_ClassExpansion\CallbackDelegate.cs" />
+    <None Include="day10_Delegate_Interface\Callback_Delegate2.cs" />
+    <None Include="day10_Delegate_Interface\Callback_Delegate2_Upgrade.cs" />
+    <None Include="day10_Delegate_Interface\InterfaceBasic.cs" />
+    <None Include="day10_Delegate_Interface\Interface_apply.cs" />
+    <Compile Include="day10_Delegate_Interface\InterfaceCallback.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
