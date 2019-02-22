@@ -117,7 +117,12 @@
     <None Include="day10_Delegate_Interface\Callback_Delegate2_Upgrade.cs" />
     <None Include="day10_Delegate_Interface\InterfaceBasic.cs" />
     <None Include="day10_Delegate_Interface\Interface_apply.cs" />
-    <Compile Include="day10_Delegate_Interface\InterfaceCallback.cs" />
+    <None Include="day10_Delegate_Interface\InterfaceCallback.cs" />
+    <None Include="day11_Interface2\IComparerInterface.cs" />
+    <None Include="day11_Interface2\IEnumerableInterface.cs" />
+    <None Include="day11_Interface2\강력한_결합.cs" />
+    <None Include="day11_Interface2\느슨한_결합.cs" />
+    <Compile Include="day11_Interface2\Struct.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
