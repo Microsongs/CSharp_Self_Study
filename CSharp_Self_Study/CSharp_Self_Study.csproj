@@ -122,7 +122,14 @@
     <None Include="day11_Interface2\IEnumerableInterface.cs" />
     <None Include="day11_Interface2\강력한_결합.cs" />
     <None Include="day11_Interface2\느슨한_결합.cs" />
-    <Compile Include="day11_Interface2\Struct.cs" />
+    <None Include="day11_Interface2\Struct.cs" />
+    <None Include="day12_복사, ref타입, enum\deep_shallow1.cs" />
+    <None Include="day12_복사, ref타입, enum\ref예약어_CallByReference.cs" />
+    <None Include="day12_복사, ref타입, enum\ref예약어_CallByValue.cs" />
+    <None Include="day12_복사, ref타입, enum\out예약어_여러반환값.cs" />
+    <None Include="day12_복사, ref타입, enum\ref예약어_기본 자료형.cs" />
+    <None Include="day12_복사, ref타입, enum\enum_basic.cs" />
+    <Compile Include="day12_복사, ref타입, enum\enum 응용.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
