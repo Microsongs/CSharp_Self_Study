@@ -129,7 +129,12 @@
     <None Include="day12_복사, ref타입, enum\out예약어_여러반환값.cs" />
     <None Include="day12_복사, ref타입, enum\ref예약어_기본 자료형.cs" />
     <None Include="day12_복사, ref타입, enum\enum_basic.cs" />
-    <Compile Include="day12_복사, ref타입, enum\enum 응용.cs" />
+    <None Include="day12_복사, ref타입, enum\enum 응용.cs" />
+    <None Include="day13_맴버 유형 확장\const_literal.cs" />
+    <None Include="day13_맴버 유형 확장\readonly.cs" />
+    <None Include="day13_맴버 유형 확장\delgatePrimeNumber.cs" />
+    <None Include="day13_맴버 유형 확장\eventPrimeNumber.cs" />
+    <Compile Include="day13_맴버 유형 확장\indexer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
