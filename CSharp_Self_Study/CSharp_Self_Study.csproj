@@ -19,7 +19,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DefineConstants>TRACE;DEBUG;OUTPUT_LOG</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
@@ -134,7 +134,13 @@
     <None Include="day13_맴버 유형 확장\readonly.cs" />
     <None Include="day13_맴버 유형 확장\delgatePrimeNumber.cs" />
     <None Include="day13_맴버 유형 확장\eventPrimeNumber.cs" />
-    <Compile Include="day13_맴버 유형 확장\indexer.cs" />
+    <None Include="day13_맴버 유형 확장\indexer.cs" />
+    <None Include="day14_구문\전처리기1.cs" />
+    <None Include="day14_구문\Attribute.cs" />
+    <None Include="day14_구문\전처리기2.cs" />
+    <None Include="day14_구문\AttributeUsage.cs" />
+    <None Include="day14_구문\MarshalAs_Attribute.cs" />
+    <Compile Include="day14_구문\AttributeMultiple.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
