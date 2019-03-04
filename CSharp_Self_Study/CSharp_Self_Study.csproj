@@ -140,7 +140,9 @@
     <None Include="day14_구문\전처리기2.cs" />
     <None Include="day14_구문\AttributeUsage.cs" />
     <None Include="day14_구문\MarshalAs_Attribute.cs" />
-    <Compile Include="day14_구문\AttributeMultiple.cs" />
+    <None Include="day14_구문\AttributeMultiple.cs" />
+    <Compile Include="day15_연산자\bitLogicalOperator.cs" />
+    <None Include="day15_연산자\ShiftOperator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
