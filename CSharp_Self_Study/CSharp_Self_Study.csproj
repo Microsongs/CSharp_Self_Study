@@ -22,6 +22,7 @@
     <DefineConstants>TRACE;DEBUG;OUTPUT_LOG</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -35,6 +36,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.ServiceProcess" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -141,8 +143,15 @@
     <None Include="day14_구문\AttributeUsage.cs" />
     <None Include="day14_구문\MarshalAs_Attribute.cs" />
     <None Include="day14_구문\AttributeMultiple.cs" />
-    <Compile Include="day15_연산자\bitLogicalOperator.cs" />
+    <None Include="day15_연산자\bitLogicalOperator.cs" />
     <None Include="day15_연산자\ShiftOperator.cs" />
+    <None Include="day16_예약어\checked.cs" />
+    <None Include="day16_예약어\intParam.cs" />
+    <None Include="day16_예약어\objectParams.cs" />
+    <None Include="day16_예약어\ExternExample.cs" />
+    <None Include="day16_예약어\unsafe%28C and C++%27s Pointer%29.cs" />
+    <None Include="day16_예약어\fixed%28C and C++%27s Object Pointer.cs" />
+    <Compile Include="day16_예약어\stackalloc%28Array heap to stack%29.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
