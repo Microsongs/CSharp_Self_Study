@@ -12,6 +12,7 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -23,6 +24,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -32,9 +34,11 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.ServiceProcess" />
     <Reference Include="System.Xml.Linq" />
@@ -151,11 +155,20 @@
     <None Include="day16_예약어\ExternExample.cs" />
     <None Include="day16_예약어\unsafe%28C and C++%27s Pointer%29.cs" />
     <None Include="day16_예약어\fixed%28C and C++%27s Object Pointer.cs" />
-    <Compile Include="day16_예약어\stackalloc%28Array heap to stack%29.cs" />
+    <None Include="day16_예약어\stackalloc%28Array heap to stack%29.cs" />
+    <None Include="day17_프로젝트 구성\다중 소스코드V1\AppSettings.cs" />
+    <None Include="day17_프로젝트 구성\다중 소스코드V1\Program.cs" />
+    <Compile Include="day17_프로젝트 구성\다중 소스코드V1\ObsoleteTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Day17_LibraryTest\Day17_LibraryTest.csproj">
+      <Project>{a018bb04-25af-4afb-a89d-37453b9be115}</Project>
+      <Name>Day17_LibraryTest</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
