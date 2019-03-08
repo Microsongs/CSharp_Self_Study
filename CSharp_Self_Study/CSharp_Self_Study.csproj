@@ -158,7 +158,11 @@
     <None Include="day16_예약어\stackalloc%28Array heap to stack%29.cs" />
     <None Include="day17_프로젝트 구성\다중 소스코드V1\AppSettings.cs" />
     <None Include="day17_프로젝트 구성\다중 소스코드V1\Program.cs" />
-    <Compile Include="day17_프로젝트 구성\다중 소스코드V1\ObsoleteTest.cs" />
+    <None Include="day17_프로젝트 구성\다중 소스코드V1\ObsoleteTest.cs" />
+    <None Include="day18_디버그 빌드와 릴리스 빌드\최적화.cs" />
+    <None Include="day18_디버그 빌드와 릴리스 빌드\DEBUG.cs" />
+    <None Include="day18_디버그 빌드와 릴리스 빌드\ConditionalDebug.cs" />
+    <Compile Include="day18_디버그 빌드와 릴리스 빌드\DebugAndTraceType.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
