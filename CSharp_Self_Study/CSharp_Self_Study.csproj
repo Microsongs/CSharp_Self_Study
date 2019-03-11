@@ -36,6 +36,9 @@
     <WarningLevel>4</WarningLevel>
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
@@ -162,7 +165,8 @@
     <None Include="day18_디버그 빌드와 릴리스 빌드\최적화.cs" />
     <None Include="day18_디버그 빌드와 릴리스 빌드\DEBUG.cs" />
     <None Include="day18_디버그 빌드와 릴리스 빌드\ConditionalDebug.cs" />
-    <Compile Include="day18_디버그 빌드와 릴리스 빌드\DebugAndTraceType.cs" />
+    <None Include="day18_디버그 빌드와 릴리스 빌드\DebugAndTraceType.cs" />
+    <Compile Include="day19_플랫폼 선택과 버전 관리\Public_Key_Infrastructure.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -174,5 +178,6 @@
       <Name>Day17_LibraryTest</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
