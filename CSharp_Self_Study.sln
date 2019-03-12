@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Self_Study", "CSharp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day17_LibraryTest", "Day17_LibraryTest\Day17_LibraryTest.csproj", "{A018BB04-25AF-4AFB-A89D-37453B9BE115}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day20_GAC", "Day20_GAC\Day20_GAC.csproj", "{13425CC9-7F06-4AFE-936F-CC5338558D13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A018BB04-25AF-4AFB-A89D-37453B9BE115}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A018BB04-25AF-4AFB-A89D-37453B9BE115}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A018BB04-25AF-4AFB-A89D-37453B9BE115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13425CC9-7F06-4AFE-936F-CC5338558D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13425CC9-7F06-4AFE-936F-CC5338558D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13425CC9-7F06-4AFE-936F-CC5338558D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13425CC9-7F06-4AFE-936F-CC5338558D13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
