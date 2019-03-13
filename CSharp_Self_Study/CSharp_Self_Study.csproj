@@ -167,7 +167,15 @@
     <None Include="day18_디버그 빌드와 릴리스 빌드\ConditionalDebug.cs" />
     <None Include="day18_디버그 빌드와 릴리스 빌드\DebugAndTraceType.cs" />
     <None Include="day19_플랫폼 선택과 버전 관리\Public_Key_Infrastructure.cs" />
-    <Compile Include="day20_Exception\ExceptionCode.cs" />
+    <None Include="day20_Exception\ExceptionCode.cs" />
+    <None Include="day21_Exception2\TryCatch.cs" />
+    <None Include="day21_Exception2\catch.cs" />
+    <None Include="day21_Exception2\finally.cs" />
+    <None Include="day21_Exception2\Stack_Trace.cs" />
+    <None Include="day21_Exception2\throw1.cs" />
+    <None Include="day21_Exception2\throw2.cs" />
+    <None Include="day21_Exception2\UserException.cs" />
+    <Compile Include="day21_Exception2\ExceptionCase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
