@@ -175,7 +175,11 @@
     <None Include="day21_Exception2\throw1.cs" />
     <None Include="day21_Exception2\throw2.cs" />
     <None Include="day21_Exception2\UserException.cs" />
-    <Compile Include="day21_Exception2\ExceptionCase.cs" />
+    <None Include="day21_Exception2\ExceptionCase.cs" />
+    <None Include="day22_Stack\StackOverflow.cs" />
+    <None Include="day22_Stack\Sum%28stack%29.cs" />
+    <None Include="day22_Stack\RecursiveCall%28Factorial%29.cs" />
+    <Compile Include="day22_Stack\RecursiveCall%28Overflow.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
