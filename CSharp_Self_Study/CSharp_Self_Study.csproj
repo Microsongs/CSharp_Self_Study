@@ -179,7 +179,12 @@
     <None Include="day22_Stack\StackOverflow.cs" />
     <None Include="day22_Stack\Sum%28stack%29.cs" />
     <None Include="day22_Stack\RecursiveCall%28Factorial%29.cs" />
-    <Compile Include="day22_Stack\RecursiveCall%28Overflow.cs" />
+    <None Include="day22_Stack\RecursiveCall%28Overflow.cs" />
+    <None Include="day23_heap_GarbageCollector_Ver1\BoxingUnboxing.cs" />
+    <None Include="day23_heap_GarbageCollector_Ver1\MethodBoxing.cs" />
+    <None Include="day23_heap_GarbageCollector_Ver1\GarbageCollector.cs" />
+    <None Include="day23_heap_GarbageCollector_Ver1\GarbageCollectorGeneration0.cs" />
+    <Compile Include="day23_heap_GarbageCollector_Ver1\GarbageCollector2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
