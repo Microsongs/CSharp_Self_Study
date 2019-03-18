@@ -185,8 +185,11 @@
     <None Include="day23_heap_GarbageCollector_Ver1\GarbageCollector.cs" />
     <None Include="day23_heap_GarbageCollector_Ver1\GarbageCollectorGeneration0.cs" />
     <None Include="day23_heap_GarbageCollector_Ver1\GarbageCollector2.cs" />
-    <None Include="day24_GarbageCollector2\FreeResource.cs" />
-    <None Include="day24_GarbageCollector2\Interface_Dispose.cs" />
+    <None Include="day24_GarbageCollector + Destructor\FreeResource.cs" />
+    <None Include="day24_GarbageCollector + Destructor\Interface_Dispose.cs" />
+    <None Include="day24_GarbageCollector + Destructor\FreeResource_Using.cs" />
+    <None Include="day24_GarbageCollector + Destructor\FreeResource_Destructor.cs" />
+    <Compile Include="day24_GarbageCollector + Destructor\SuppressFinalize.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
