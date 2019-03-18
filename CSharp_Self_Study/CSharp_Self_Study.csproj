@@ -184,7 +184,9 @@
     <None Include="day23_heap_GarbageCollector_Ver1\MethodBoxing.cs" />
     <None Include="day23_heap_GarbageCollector_Ver1\GarbageCollector.cs" />
     <None Include="day23_heap_GarbageCollector_Ver1\GarbageCollectorGeneration0.cs" />
-    <Compile Include="day23_heap_GarbageCollector_Ver1\GarbageCollector2.cs" />
+    <None Include="day23_heap_GarbageCollector_Ver1\GarbageCollector2.cs" />
+    <None Include="day24_GarbageCollector2\FreeResource.cs" />
+    <None Include="day24_GarbageCollector2\Interface_Dispose.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -35,7 +35,7 @@ namespace CSharp_Self_Study.day23_heap
 
             object j = new object();
             object k = new object();
-
+            
             j = null;
             k = null;
             GC.Collect();
