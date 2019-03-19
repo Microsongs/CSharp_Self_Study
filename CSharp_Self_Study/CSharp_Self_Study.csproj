@@ -189,7 +189,12 @@
     <None Include="day24_GarbageCollector + Destructor\Interface_Dispose.cs" />
     <None Include="day24_GarbageCollector + Destructor\FreeResource_Using.cs" />
     <None Include="day24_GarbageCollector + Destructor\FreeResource_Destructor.cs" />
-    <Compile Include="day24_GarbageCollector + Destructor\SuppressFinalize.cs" />
+    <None Include="day24_GarbageCollector + Destructor\SuppressFinalize.cs" />
+    <None Include="day25_System.DateTIme\DateTime_Now.cs" />
+    <None Include="day25_System.DateTIme\DateTime_Ticks.cs" />
+    <None Include="day25_System.DateTIme\DateTime_DateTimeKind.cs" />
+    <None Include="day25_System.DateTIme\System_TimeSpan.cs" />
+    <Compile Include="day25_System.DateTIme\System_Diagnostics_Stopwatch.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
