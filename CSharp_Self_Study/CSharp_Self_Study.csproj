@@ -194,7 +194,12 @@
     <None Include="day25_System.DateTIme\DateTime_Ticks.cs" />
     <None Include="day25_System.DateTIme\DateTime_DateTimeKind.cs" />
     <None Include="day25_System.DateTIme\System_TimeSpan.cs" />
-    <Compile Include="day25_System.DateTIme\System_Diagnostics_Stopwatch.cs" />
+    <None Include="day25_System.DateTIme\System_Diagnostics_Stopwatch.cs" />
+    <None Include="day26_System.String\StringExample.cs" />
+    <None Include="day26_System.String\대소문자 구분 여부.cs" />
+    <None Include="day26_System.String\StringFormat.cs" />
+    <None Include="day26_System.String\StringFormat%28sort%29.cs" />
+    <Compile Include="day26_System.String\FormatExample.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
