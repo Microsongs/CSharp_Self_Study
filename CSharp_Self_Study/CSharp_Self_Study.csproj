@@ -199,7 +199,13 @@
     <None Include="day26_System.String\대소문자 구분 여부.cs" />
     <None Include="day26_System.String\StringFormat.cs" />
     <None Include="day26_System.String\StringFormat%28sort%29.cs" />
-    <Compile Include="day26_System.String\FormatExample.cs" />
+    <None Include="day26_System.String\FormatExample.cs" />
+    <None Include="day27_System.Text.StringBuilder\EncodingExample.cs" />
+    <None Include="day27_System.Text.StringBuilder\StringTIme.cs" />
+    <None Include="day27_System.Text.StringBuilder\StringBuilderExample.cs" />
+    <None Include="day27_System.Text.StringBuilder\RegexNoUse.cs" />
+    <None Include="day27_System.Text.StringBuilder\RegexUse.cs" />
+    <Compile Include="day27_System.Text.StringBuilder\RegexReplace.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
