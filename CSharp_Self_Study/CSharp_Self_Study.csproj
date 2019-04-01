@@ -205,7 +205,11 @@
     <None Include="day27_System.Text.StringBuilder\StringBuilderExample.cs" />
     <None Include="day27_System.Text.StringBuilder\RegexNoUse.cs" />
     <None Include="day27_System.Text.StringBuilder\RegexUse.cs" />
-    <Compile Include="day27_System.Text.StringBuilder\RegexReplace.cs" />
+    <None Include="day27_System.Text.StringBuilder\RegexReplace.cs" />
+    <None Include="day28_직렬화와 역직렬화1\BitConverterExample.cs" />
+    <None Include="day28_직렬화와 역직렬화1\BitConverterString.cs" />
+    <None Include="day28_직렬화와 역직렬화1\MemoryStreamExample.cs" />
+    <Compile Include="day28_직렬화와 역직렬화1\MemoryStreamToArray.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

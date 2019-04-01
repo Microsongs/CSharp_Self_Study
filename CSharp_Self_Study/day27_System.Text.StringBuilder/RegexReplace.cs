@@ -9,15 +9,19 @@ namespace CSharp_Self_Study.day27_System.Text.StringBuilder
 {
     class RegexReplace
     {
-        string txt = "Hello, World! Welcome to my world";
+        static void Main(string[] args)
+        {
+            string txt = "Hello, World! Welcome to my world";
 
-        Regex regex = new Regex("world", RegexOptions.IgnoreCase);
-        string result = Regex.Replace(txt, funcMatch);
+            Regex regex = new Regex("world", RegexOptions.IgnoreCase);
+            string result = regex.Replace(txt, funcMatch);
 
-        Console.Write(result);
+            Console.Write(result);
+        }
+        static string funcMatch(Match match)
+        {
+            return "universe";
+        }
     }
-    static string funcMatch(Match match)
-    {
-        return "universe";
-    }
+
 }
