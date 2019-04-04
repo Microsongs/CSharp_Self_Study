@@ -209,7 +209,10 @@
     <None Include="day28_직렬화와 역직렬화1\BitConverterExample.cs" />
     <None Include="day28_직렬화와 역직렬화1\BitConverterString.cs" />
     <None Include="day28_직렬화와 역직렬화1\MemoryStreamExample.cs" />
-    <Compile Include="day28_직렬화와 역직렬화1\MemoryStreamToArray.cs" />
+    <None Include="day28_직렬화와 역직렬화1\MemoryStreamToArray.cs" />
+    <None Include="day29_Stream\BinaryReaderWriterExample.cs" />
+    <None Include="day29_Stream\StreamWriterExample.cs" />
+    <Compile Include="day29_Stream\BinaryFormatterExample.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
