@@ -43,6 +43,7 @@
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.ServiceProcess" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -212,7 +213,14 @@
     <None Include="day28_직렬화와 역직렬화1\MemoryStreamToArray.cs" />
     <None Include="day29_Stream\BinaryReaderWriterExample.cs" />
     <None Include="day29_Stream\StreamWriterExample.cs" />
-    <Compile Include="day29_Stream\BinaryFormatterExample.cs" />
+    <None Include="day29_Stream\BinaryFormatterExample.cs" />
+    <None Include="day29_Stream\DataContractJsonSerializerExample.cs" />
+    <None Include="day29_Stream\XmlSerializerExample.cs" />
+    <None Include="day30_Collections\BasicArray.cs" />
+    <None Include="day30_Collections\ExampleArrayList.cs" />
+    <None Include="day30_Collections\ArrayList_Sort.cs" />
+    <None Include="day30_Collections\ArrayList_Sort_IComparable.cs" />
+    <Compile Include="day30_Collections\ExampleHashtable.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
