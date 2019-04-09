@@ -221,8 +221,13 @@
     <None Include="day30_Collections\ArrayList_Sort.cs" />
     <None Include="day30_Collections\ArrayList_Sort_IComparable.cs" />
     <None Include="day30_Collections\ExampleHashtable.cs" />
-    <Compile Include="day31_Collections2\QueueExample.cs" />
+    <None Include="day31_Collections2\QueueExample.cs" />
     <None Include="day31_Collections2\StackExample.cs" />
+    <None Include="day32_FileStream\FileBasic.cs" />
+    <None Include="day32_FileStream\FileBinaryWriterBasic.cs" />
+    <None Include="day32_FileStream\FileOption.cs" />
+    <None Include="day32_FileStream\FileLogging.cs" />
+    <Compile Include="day32_FileStream\File재사용.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
