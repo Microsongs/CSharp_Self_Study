@@ -230,7 +230,11 @@
     <None Include="day32_File1\File재사용.cs" />
     <None Include="day33_File2\ExampleFile.cs" />
     <None Include="day33_File2\ExampleFileInfo.cs" />
-    <Compile Include="day33_File2\탐색기.cs" />
+    <None Include="day33_File2\탐색기.cs" />
+    <None Include="day34_File3\GetInvalid.cs" />
+    <None Include="day34_File3\PathCombine.cs" />
+    <None Include="day34_File3\임시 폴더.cs" />
+    <Compile Include="day34_File3\기타.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
