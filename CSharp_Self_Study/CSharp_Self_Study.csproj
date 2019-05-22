@@ -234,7 +234,14 @@
     <None Include="day34_File3\GetInvalid.cs" />
     <None Include="day34_File3\PathCombine.cs" />
     <None Include="day34_File3\임시 폴더.cs" />
-    <Compile Include="day34_File3\기타.cs" />
+    <None Include="day34_File3\기타.cs" />
+    <None Include="day35_Thread1\currentThreadCheck.cs" />
+    <None Include="day35_Thread1\SleepMethod.cs" />
+    <None Include="day35_Thread1\Thread1.cs" />
+    <None Include="day35_Thread1\BackgroundThread.cs" />
+    <None Include="day35_Thread1\Thread2.cs" />
+    <None Include="day35_Thread1\JoinMethod.cs" />
+    <Compile Include="day35_Thread1\스레드 메서드에 인자 전달.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
