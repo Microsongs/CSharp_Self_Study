@@ -241,7 +241,15 @@
     <None Include="day35_Thread1\BackgroundThread.cs" />
     <None Include="day35_Thread1\Thread2.cs" />
     <None Include="day35_Thread1\JoinMethod.cs" />
-    <Compile Include="day35_Thread1\스레드 메서드에 인자 전달.cs" />
+    <None Include="day35_Thread1\스레드 메서드에 인자 전달.cs" />
+    <None Include="day36_Thread2\계산 프로그램 스레드미사용.cs" />
+    <None Include="day36_Thread2\계산 프로그램 스레드사용.cs" />
+    <None Include="day36_Thread2\MultiThread1.cs" />
+    <None Include="day36_Thread2\MultiThreadWarning2.cs" />
+    <None Include="day37_Thread3\MultiThreadSynchronization.cs" />
+    <None Include="day37_Thread3\ThreadLock.cs" />
+    <None Include="day37_Thread3\ThreadNoSafety.cs" />
+    <Compile Include="day37_Thread3\ThreadSafetyLock.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
