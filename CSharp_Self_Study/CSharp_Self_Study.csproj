@@ -8,7 +8,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>CSharp_Self_Study</RootNamespace>
     <AssemblyName>CSharp_Self_Study</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>

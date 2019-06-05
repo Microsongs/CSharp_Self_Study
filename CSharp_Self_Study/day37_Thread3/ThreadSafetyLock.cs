@@ -44,7 +44,7 @@ namespace CSharp_Self_Study.day37_Thread3
         {
             MyData data = inst as MyData;
 
-            for (int i = 0; i < 100000; i++)
+            for (int i = 0; i < 120000; i++)
             {
                 data.Increment();
             }
